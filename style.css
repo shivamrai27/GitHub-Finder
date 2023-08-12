@@ -14,10 +14,10 @@
     gap: 4rem;
 }
 
-.search {
+/* .search {
     display: flex;
-
-}
+    
+} */
 
 #searchInput {
     padding: 1rem;
@@ -35,6 +35,7 @@
 }
 
 #searchBtn {
+    padding: 1rem;
     width: 7rem;
     font-size: 1rem;
     font-weight: bold;
@@ -47,3 +48,5 @@
 #searchBtn:hover {
     cursor: pointer;
 }
+
+/* For Card */
