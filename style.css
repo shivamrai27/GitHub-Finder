@@ -65,7 +65,13 @@
 
 /* For Card */
 
+#profileContainer {
+    width: 100%;
+
+}
+
 .profile-card {
+    margin: auto;
     padding: 4rem 2rem;
     box-shadow: 0 0 1rem rgba(0, 0, 0, 0.1);
     width: 60%;
